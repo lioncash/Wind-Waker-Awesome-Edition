@@ -14,6 +14,12 @@ Are you good at making really bad drawings? Then hey! Guess what? This project i
 5. Make sure the filename of the re-drawn texture is the same as the original.
 6. Now just make a pull request.
 
+## OK, now how do I install this? I need my memes, yo.
+
+1. Go to your Dolphin user directory and go to `Load/Textures` (create these folders if they don't exist).
+2. In `Load/Textures` create a folder named `GZLE01`.
+3. Place all of the textures from this repository in that folder.
+4. Run Dolphin, and go to Graphics -> Advanced and check the `Load Custom Textures` option.
 
 ## FAQ
 
